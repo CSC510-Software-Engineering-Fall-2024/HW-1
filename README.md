@@ -10,6 +10,6 @@
 
 <!-- BADGE TO INDICATE LICENSE USED IS MIT -->
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/CSC510-Software-Engineering-Fall-2024/HW-1/actions/workflows/main.yml/badge.svg)
 
 <!-- TESTS PASSING BADGE -->
