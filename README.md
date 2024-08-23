@@ -1,2 +1,3 @@
-# HW-1
-NCSU, CSC 510: Software Engineering, Fall 2024 homework 1 repository.
+![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
+
+<!-- BADGE TO INDICATE LANGUAGE USED IS PYTHON -->
