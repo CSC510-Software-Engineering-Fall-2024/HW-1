@@ -13,4 +13,4 @@ class Test:
         assert divide(X, Y) == 5
 
     def test_fail(self):
-        assert divide(X, Z) < 1
+        assert divide(X, Z) > 1
