@@ -2,11 +2,11 @@
 
 <!-- BADGE TO INDICATE LANGUAGE USED IS PYTHON -->
 
-!Platform[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- BADGE TO INDICATE PLATFORM USED IS LINUX -->
 
-!License[MIT License](https://img.shields.io/github/license/{MIT}/{repo-name}.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!-- BADGE TO INDICATE LICENSE USED IS MIT -->
 
