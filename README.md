@@ -10,3 +10,5 @@
 
 <!-- BADGE TO INDICATE LICENSE USED IS MIT -->
 
+![Workflow](https://github.com/CSC510-Software-Engineering-Fall-2024/HW-1/blob/main/.github/workflows/main.yml/badge.svg)
+<!-- TESTS PASSING BADGE -->
