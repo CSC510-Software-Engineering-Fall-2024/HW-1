@@ -20,11 +20,11 @@ jobs:
       - name: Display Python version
         run: python -c "import sys; print(sys.version)"
 # .github/workflows/test.yml
-name: Test
-on: [push, pull_request, workflow_dispatch]
-jobs:
-  test:
-    runs-on: ubuntu-latest
+  name : Test
+    on: [push, pull_request, workflow_dispatch]
+  jobs:
+    test:
+      runs-on: ubuntu-latest
     steps:
       # Your original steps
       - uses: actions/checkout@v3
