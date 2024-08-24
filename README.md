@@ -2,7 +2,7 @@
 
 <!-- BADGE TO INDICATE LANGUAGE USED IS PYTHON -->
 
-![Linux]()(https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- BADGE TO INDICATE PLATFORM USED IS LINUX -->
 
