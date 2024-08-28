@@ -1,10 +1,10 @@
-
 def divide(x,y):
     res = x/y
     return res
+
 if __name__ == '__main__':
     a=12
-    b=0
+    b=4
 
     result1 = divide(a,b)
     print("Result : ",result1)
