@@ -15,7 +15,7 @@
     <h2>Homework 1</h2>
     <p>Python code snippet with a zero division error to test error in terminal and using 'entr' which is a test utility tool which keeps updating error in code</p>
     <p>Pytest used to test the code - both passing and failing test cases included and badge included for test coverage</p>
+</body>
+</html>   
    
-    </body>
-    </html>
        
